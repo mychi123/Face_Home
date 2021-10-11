@@ -26,6 +26,35 @@ function Sidebar() {
         <SidebarRow Icon={AccessTimeOutlinedIcon} title="Kỉ niệm" />
         <SidebarRow Icon={KeyboardArrowDownIcon} title="Xem thêm" />
       </div>
+      <div> <b> Lối tắt của bạn</b></div>
+      <div className="sidebar__bottom">
+      
+      <Avatar
+      variant="rounded"
+            alt="Remy Sharp"
+            src="https://tse4.mm.bing.net/th?id=OIF.yBQ1dFy0WxBZ4FGNCad7mQ&pid=Api&P=0&w=300&h=300"
+          />
+          <h4>Bắn trứng khủng long</h4>
+          
+        </div>
+        <div className="sidebar__bottom">
+      <Avatar
+      variant="rounded"
+            alt="Remy Sharp"
+            src="https://tse4.mm.bing.net/th?id=OIF.yBQ1dFy0WxBZ4FGNCad7mQ&pid=Api&P=0&w=300&h=300"
+          />
+          <h4>Bắn trứng khủng long</h4>
+          
+        </div>
+        <div className="sidebar__bottom">
+      <Avatar
+      variant="rounded"
+            alt="Remy Sharp"
+            src="https://tse4.mm.bing.net/th?id=OIF.yBQ1dFy0WxBZ4FGNCad7mQ&pid=Api&P=0&w=300&h=300"
+          />
+          <h4>Bắn trứng khủng long</h4>
+          
+        </div>
     </div>
   );
 }
