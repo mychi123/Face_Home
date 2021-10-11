@@ -1,0 +1,15 @@
+.sidebar{
+    padding:25px 10px;
+   display: flex;
+   flex-direction: column;
+ 
+   align-items: center;
+}
+.sidebar__top__info>h4{
+    margin-left: 10px;
+ }
+ .sidebar__top__info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

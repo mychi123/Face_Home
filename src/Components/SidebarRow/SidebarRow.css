@@ -1,0 +1,19 @@
+.sidebarRow{
+    display :flex;
+align-items: center;
+padding: 10px;
+cursor:pointer
+}
+.sidebarRow:hover{
+  background-color: thistle;
+  border-radius: 11px;
+}
+
+.sidebarRow >h4{
+   margin-left: 20px;
+   font-weight: 600px;
+ }
+ .sidebarRow >.MuiSvgIcon-root{
+   font-size: x-large;
+   color: rgb(42, 8, 235);
+  }
